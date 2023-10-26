@@ -74,9 +74,3 @@ app.post("/failure",(req,res)=>{
 app.listen(3000,()=>{
     console.log("Server is running on port 3000");
 });
-
-//endpoint --> "https://us21.api.mailchimp.com/3.0/"
-
-//API key --> key1 -->5eaab4125d89c297277a906e5727b0d4-us21  --> us21
-
-//Audience/List Id --> 33c26e91cb
